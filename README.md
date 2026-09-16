@@ -72,40 +72,6 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,vscode,postman" alt="Cloud and Tools" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/vaibhavgaikwad01/Team18_MechIntelX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgaikwad01&repo=Team18_MechIntelX&theme=github_dark&hide_border=true" alt="Team18_MechIntelX" />
-  </a>
-  <a href="https://github.com/vaibhavgaikwad01/AI-Powered-Sentiment-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgaikwad01&repo=AI-Powered-Sentiment-Analysis&theme=github_dark&hide_border=true" alt="AI-Powered-Sentiment-Analysis" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaibhavgaikwad01/movie-recommender-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgaikwad01&repo=movie-recommender-system&theme=github_dark&hide_border=true" alt="movie-recommender-system" />
-  </a>
-  <a href="https://github.com/vaibhavgaikwad01/ai-job-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgaikwad01&repo=ai-job-scraper&theme=github_dark&hide_border=true" alt="ai-job-scraper" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaibhavgaikwad01/fraud-detection-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgaikwad01&repo=fraud-detection-system&theme=github_dark&hide_border=true" alt="fraud-detection-system" />
-  </a>
-  <a href="https://github.com/vaibhavgaikwad01/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgaikwad01&repo=DSA&theme=github_dark&hide_border=true" alt="DSA" />
-  </a>
-</p>
-
-> 💡 These cards update automatically from your repositories, so you don't need to manually maintain stars, forks, languages or descriptions.
-
----
 
 ## 📊 GitHub Analytics
 
