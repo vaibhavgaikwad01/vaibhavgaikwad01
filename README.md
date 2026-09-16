@@ -73,63 +73,6 @@
 </p>
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vaibhavgaikwad01&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true" alt="Vaibhav's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgaikwad01&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-### 📌 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavgaikwad01&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavgaikwad01&theme=github_dark" alt="GitHub Statistics" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vaibhavgaikwad01&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/vaibhavgaikwad01">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavgaikwad01&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavgaikwad01&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/vaibhavgaikwad01">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavgaikwad01&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=161b22&area=true&hide_border=true" alt="Contribution Graph" />
-  </a>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```text
